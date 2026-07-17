@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <header>
-        <h1> New header (by Thomas) </h1>
+        <h1> Neuer Header (von Thomas) </h1>
       </header>
 
       <main>
