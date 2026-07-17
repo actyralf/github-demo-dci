@@ -8,8 +8,11 @@ function App() {
       </header>
 
       <main>
-        <h1>Github Project (by Thomas)</h1>
+        <h1>Die tolle Github Demo von Ralf & Thomas</h1>
       </main>
+      <footer>
+        <p>Copyright by Thomas und Ralf</p>
+      </footer>
     </>
   );
 }
